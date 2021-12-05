@@ -1,0 +1,13 @@
+packages/*/public
+packages/*/build
+packages/script-editor/types
+..eslintrc.js
+checkGitConfig.js
+
+**/oidc-client.min.js
+
+node_modules
+
+*.scss.d.ts
+
+configs
